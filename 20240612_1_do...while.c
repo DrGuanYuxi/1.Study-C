@@ -8,8 +8,7 @@ int main(void)
 	double delta;
 	double x1, x2;
 	char ch;
-
-
+	
 	do
 	{
 		printf("Please give three coefficient of the equation of two degree.\n");
