@@ -20,8 +20,6 @@ int main(void)
 	struct Student* pst = &st2;
 	printf("%d %f %c\n", pst->age, pst->score, pst->sex);
 	//pst->age will translate to (*pst).age in the computer
-
-
-
+	
 	return 0;  
 }
